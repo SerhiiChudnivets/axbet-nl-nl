@@ -5,7 +5,7 @@
   "url": "axbet-nl.nl",
   "template": "tupchiy",
   "language_code": "nl-BE",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -379,8 +379,8 @@
       "question": "Hoe werkt zelfuitsluiting?"
     }
   ],
-  "_generated_at": "2026-10-06T15:48:34.884Z",
+  "_generated_at": "2026-10-06T15:49:46.659Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-06T15:48:35.421Z",
-  "_deploy_trigger": "4dkkiy"
+  "_last_deploy": "2026-10-06T15:49:47.225Z",
+  "_deploy_trigger": "tt986z"
 }
