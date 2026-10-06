@@ -191,7 +191,7 @@
   "button_background": "#fa2807",
   "button_text_color": "#ffffff",
   "text_color": "#ffffff",
-  "color_highlight_text": "#fa2807",
+  "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#fafff0",
   "cta_background": "#fa2807",
   "logo": {
@@ -379,8 +379,8 @@
       "question": "Hoe werkt zelfuitsluiting?"
     }
   ],
-  "_generated_at": "2026-10-06T15:45:41.581Z",
+  "_generated_at": "2026-10-06T15:46:44.949Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-06T15:45:42.151Z",
-  "_deploy_trigger": "ffsu0a"
+  "_last_deploy": "2026-10-06T15:46:45.545Z",
+  "_deploy_trigger": "f4tl1"
 }
