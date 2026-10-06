@@ -179,7 +179,7 @@
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
-  "slots_title": "AxBet Casino-gokkasten",
+  "slots_title": "AxBet Casino Speelautomaten",
   "bonus_title": "Bonussen en acties ",
   "get_bonus_btn_text": "Nu spelen",
   "redirect_link": "/play/",
@@ -379,8 +379,8 @@
       "question": "Hoe werkt zelfuitsluiting?"
     }
   ],
-  "_generated_at": "2026-10-06T15:43:55.460Z",
+  "_generated_at": "2026-10-06T15:45:41.581Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-06T15:43:57.060Z",
-  "_deploy_trigger": "xcqxw"
+  "_last_deploy": "2026-10-06T15:45:42.151Z",
+  "_deploy_trigger": "ffsu0a"
 }
